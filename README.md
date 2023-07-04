@@ -1,3 +1,3 @@
-CV-Project-v2 
+CV-Project
 
-Create a CV builder using React functional components 
+CV builder using React components
